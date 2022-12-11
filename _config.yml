@@ -1,11 +1,10 @@
-title: "williams-Hungnes 2023"
-email: me@maxwillia.ms
-description: >
-  April 1 2023
+title: "Williams-Hungnes April 1 2023"
+email: wedding@maxwillia.ms
+description: April 1 2023
 url: ""
 
 # Build Settings
-remote_theme: pages-themes/time-machine@v0.2.0
+theme: minima
 
  # Where things are
 source              : .
