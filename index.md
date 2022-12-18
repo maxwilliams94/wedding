@@ -4,6 +4,8 @@ layout: "home"
 ---
 <img src="{{ "assets/107A2542.jpg" | relative_url }}" alt="Tower Bridge" style="width:1024px;float:center">
 
+Please RSVP to [wedding@maxwillia.ms](mailto:wedding@maxwillia.ms)!
+
 # Provisional Itinerary
 - 13:45 Ceremony Arrival
 - 14:00 Ceremony Start
