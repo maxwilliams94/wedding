@@ -4,7 +4,7 @@ layout: "home"
 ---
 <img src="{{ "assets/107A2542.jpg" | relative_url }}" alt="Tower Bridge" style="width:1024px;float:center">
 
-# Itinery
+# Provisional Itinerary
 - 13:45 Ceremony Arrival
 - 14:00 Ceremony Start
 - 15:00 Ceremony End
@@ -16,4 +16,4 @@ layout: "home"
 - 20:30 Party!
 
 # Wish List
-- Honeymoon contribution
+- Honeymoon contributions welcomed
