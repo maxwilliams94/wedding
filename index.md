@@ -10,7 +10,7 @@ layout: "home"
     - Meat
     - Fish
     - Vegetarian
-- Add your song ideas to our [playlist](https://open.spotify.com/playlist/0PsrFd7mdipfOZxqnyRZM7?si=2d8f2e3a568f4c0d&pt=25135b6efa72a2755e68ef59412831ac) for the reception!
+- Add your song ideas to our [playlist]([https://open.spotify.com/playlist/0PsrFd7mdipfOZxqnyRZM7?si=2d8f2e3a568f4c0d&pt=25135b6efa72a2755e68ef59412831ac](https://open.spotify.com/playlist/0PsrFd7mdipfOZxqnyRZM7?si=b05a46ac25c94a3a)) for the reception!
 
 # Provisional Itinerary
 - 13:45 Ceremony Arrival
