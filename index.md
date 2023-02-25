@@ -5,12 +5,12 @@ layout: "home"
 <img src="{{ "assets/107A2542.jpg" | relative_url }}" alt="Tower Bridge" style="width:1024px;float:center">
 
 # RSVP
-- Please RSVP to [wedding@maxwillia.ms](mailto:wedding@maxwillia.ms)! with your food choices and any allergies!
-  - Food choices
-    - Meat
-    - Fish
-    - Vegetarian
-- Add your song ideas to our [playlist](https://open.spotify.com/playlist/0PsrFd7mdipfOZxqnyRZM7?si=c935ebedaab74c48) for the reception!
+- Please RSVP to [wedding@maxwillia.ms](mailto:wedding@maxwillia.ms) with your food choices and any allergies!
+  - Choice of main course:
+    - Pork
+    - Sea Bass
+    - Cheese and Mushroom Risotto (vegetarian)
+- Add your song ideas to our [playlist](https://open.spotify.com/playlist/0PsrFd7mdipfOZxqnyRZM7?si=1aa701efac86438f&pt=1e400a530e21370c058f7288d4a31e03) for the reception!
 
 # Provisional Itinerary
 - 13:45 Ceremony Arrival
