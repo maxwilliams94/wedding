@@ -10,7 +10,7 @@ layout: "home"
     - Pork
     - Sea Bass
     - Cheese and Mushroom Risotto (vegetarian)
-- Add your song ideas to our [playlist](https://open.spotify.com/playlist/0PsrFd7mdipfOZxqnyRZM7?si=1aa701efac86438f&pt=1e400a530e21370c058f7288d4a31e03) for the reception!
+- Add your song ideas to our [playlist](https://open.spotify.com/playlist/0PsrFd7mdipfOZxqnyRZM7?si=d2e97a6c49b040f1&pt=07fdc471463bfba004d74a29cdef6e8a) for the reception!
 
 # Provisional Itinerary
 - 13:45 Ceremony Arrival
@@ -22,7 +22,7 @@ layout: "home"
 - 19:00 Evening guest Arrival
 - 19:30 Second welcome and speeches 
 - 20:00 Cake cutting and dessert
-- 20:30 First-dance and parent dance
+- 20:30 First-dance
 - 20:45 Dance floor open!
 
 # Wish List
