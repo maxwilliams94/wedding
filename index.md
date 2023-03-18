@@ -26,4 +26,10 @@ layout: "home"
 - 20:45 Dance floor open!
 
 # Wish List
-- Honeymoon contributions welcomed on the day
+- Honeymoon contributions (Canada 4-May!) welcomed on the day or via the below methods.
+
+## Ways to Contribute
+- The red postbox at the reception venue for cards
+- Transfer to IB's Norwegian bank account: Ingebjorg N Hungnes, 1201.39.47277
+- Transfer to our UK joint account: Max Williams, 87504072, 04-00-04 (BIC: MONZGB2L)
+- Using this link https://monzo.me/maxwilliams2 or QR code: <img src="{{ "assets/maxwilliams2.png" | relative_url }}" alt="payment qr code" style="width:1024px;float:left">
