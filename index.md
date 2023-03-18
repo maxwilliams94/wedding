@@ -12,7 +12,7 @@ layout: "home"
     - Cheese and Mushroom Risotto (vegetarian)
 - Add your song ideas to our [playlist](https://open.spotify.com/playlist/0PsrFd7mdipfOZxqnyRZM7?si=a8155f362d7d4ae8&pt=4a264a674010b25964d66eabe1b2da72) for the reception!
 
-# Provisional Itinerary
+# Itinerary
 - 13:45 Ceremony Arrival
 - 14:00 Ceremony Start
 - 15:00 Ceremony End and Photos
@@ -26,10 +26,9 @@ layout: "home"
 - 20:45 Dance floor open!
 
 # Wish List
-- Honeymoon contributions (Canada 4-May!) welcomed on the day or via the below methods.
+<p>We would greatly appreciate any contribution to our honeymoon in Canada from 4 May. We will have a box for cards but if you wish to contribute ahead of time or electronically: the methods are below. <3</p>
 
-## Ways to Contribute
 - The red postbox at the reception venue for cards
-- Transfer to IB's Norwegian bank account: Ingebjorg N Hungnes, 1201.39.47277
-- Transfer to our UK joint account: Max Williams, 87504072, 04-00-04 (BIC: MONZGB2L)
-- Using this link https://monzo.me/maxwilliams2 or QR code: <img src="{{ "assets/maxwilliams2.png" | relative_url }}" alt="payment qr code" style="width:1024px;float:left">
+- Bank Transfer: IB's Norwegian bank account - Ingebjorg N Hungnes, 1201.39.47277
+- Bank Transfer: UK joint account: Max Williams, 87504072, 04-00-04 (BIC: MONZGB2L)
+- Using this link to Max's account [https://monzo.me/maxwilliams2](https://monzo.me/maxwilliams2) or QR code: <img src="{{ "assets/maxwilliams2.png" | relative_url }}" alt="payment qr code" style="width:256px;float:left">
