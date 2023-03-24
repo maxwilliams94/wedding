@@ -19,9 +19,9 @@ layout: "home"
 - 16:00 Guests arrive at reception @ OPS Wines by foot -> Sparkling wine and canapes
 - 16:45 Couple arrives at OPS Wines
 - 17:00 Wedding Breakfast served
+  - Cake cutting
 - 19:00 Evening guest Arrival
 - 19:30 Second welcome and speeches 
-- 20:00 Cake cutting and dessert
 - 20:30 First-dance
 - 20:45 Dance floor open!
 
