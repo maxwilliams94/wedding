@@ -32,4 +32,4 @@ layout: "home"
 - Bank Transfer: IB's Norwegian bank account - Ingebjorg N Hungnes, 1201.39.47277
 - VIPPS (IB)
 - Bank Transfer: UK joint account: Max Williams, 87504072, 04-00-04 (BIC: MONZGB2L)
-- Mozo link [https://monzo.me/maxwilliams2](https://monzo.me/maxwilliams2) or QR code: <img src="{{ "assets/maxwilliams2.png" | relative_url }}" alt="payment qr code" style="width:128px;float:center">
+- Monzo link [https://monzo.me/maxwilliams2](https://monzo.me/maxwilliams2) or QR code: <img src="{{ "assets/maxwilliams2.png" | relative_url }}" alt="payment qr code" style="width:128px;float:center">
