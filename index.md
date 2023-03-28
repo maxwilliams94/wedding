@@ -10,7 +10,7 @@ layout: "home"
     - Pork
     - Sea Bass
     - Cheese and Mushroom Risotto (vegetarian)
-- Add your song ideas to our [playlist](https://open.spotify.com/playlist/0PsrFd7mdipfOZxqnyRZM7?si=a8155f362d7d4ae8&pt=4a264a674010b25964d66eabe1b2da72) for the reception!
+- Add your song ideas to our <s>[playlist](https://open.spotify.com/playlist/0PsrFd7mdipfOZxqnyRZM7?si=a8155f362d7d4ae8&pt=4a264a674010b25964d66eabe1b2da72) for the reception!</s>
 
 # Itinerary
 - 13:45 Ceremony Arrival
